@@ -25,7 +25,7 @@ pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: https-celebrantmedia-com # add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
@@ -41,4 +41,4 @@ google-analytics: # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Newsletter
-mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: https://celebrantmedia.us19.list-manage.com/subscribe/post?u=daeacd7c97db4f33775d58f64&amp;id=5abd68fcf2 # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
