@@ -10,17 +10,17 @@ description: Digital media for real brands.
 author:
   name: Parav K Singla
   image: home.jpg
-  say-hello: Hello, We're <strong>Celebrant</strong>
+  say-hello: Hello, We're <strong>Celebrant</strong>.
   bio: We create video and images for personal brands and small businesses.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+twitter: https://twitter.com/celebrantmedia # Add your Twitter handle
+facebook: https://facebook.com/celebrantmedia # Add your Facebook handle
+#dribbble: https://dribbble.com/ # Add your Dribbble handle
+instagram: https://instagram.com/celebrantmedia # Add your Instagram handle
+#pinterest: https://pinterest.com/ # Add your Pinterest handle
 
 
 #-------------------------------
